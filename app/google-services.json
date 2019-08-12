@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "515077784648",
+    "firebase_url": "https://wallmart-6d634.firebaseio.com",
+    "project_id": "wallmart-6d634",
+    "storage_bucket": "wallmart-6d634.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515077784648:android:f37d35f878af9352",
+        "android_client_info": {
+          "package_name": "com.example.android.wallmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515077784648-21iim08v09627o01442gff7i3kqbnt39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.wallmart",
+            "certificate_hash": "77aca1ccef40f91f3fcbfcc2410cc374a5832104"
+          }
+        },
+        {
+          "client_id": "515077784648-tdjocq257vm1ro42u9c0cdnee2qp973v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr2SbPnxcJn20FwHTxUWNX-Eh9-Ui5TiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515077784648-tdjocq257vm1ro42u9c0cdnee2qp973v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

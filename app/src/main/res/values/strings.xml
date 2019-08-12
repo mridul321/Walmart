@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WallMart</string>
+    <string name="facebook_app_id">1731517717147703</string>
+    <string name="fb_login_protocol_scheme">fb1731517717147703</string>
+    <string name="amount_to_be_paid">Amount to be Paid:</string>
+    <string name="amount">Amount</string>
+
+</resources>
